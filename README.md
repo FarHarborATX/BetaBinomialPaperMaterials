@@ -15,7 +15,7 @@ The repository includes real-world comparative examples using contraceptive care
 * **Eric Booth** [github](www.github.com/ericabooth)
 * **Philip Hastings**
 * Pat Malone
--
+
 **Affiliation**: Far Harbor, LLC, Austin, TX, United States of America.
 
 ---
